@@ -73,3 +73,15 @@ These describe system attributes such as **performance, usability, reliability, 
 
 Understanding and properly distinguishing between these two types of requirements ensures comprehensive coverage during analysis, development, and testing.
 
+## Use Case Diagrams
+
+Use Case Diagrams are visual representations of the interactions between users (actors) and the system to achieve specific goals. They are an essential part of requirement analysis because they:
+
+- Provide a clear picture of system functionality from a user perspective.
+- Help identify and validate system boundaries.
+- Simplify communication between technical and non-technical stakeholders.
+
+Below is a sample use case diagram for the Booking Management System. It highlights the core functionalities and actors involved.
+
+![Use Case Diagram for Booking System](assets/alx-booking-uc.png)
+
