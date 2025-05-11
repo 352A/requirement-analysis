@@ -38,3 +38,38 @@ The process of Requirement Analysis involves several essential activities that e
   Validation ensures that the documented requirements accurately reflect stakeholder needs and are feasible, complete, and testable. This may involve reviews, walkthroughs, and approval from stakeholders to confirm alignment before moving to design.
 
 Each of these activities contributes to building a solid foundation for the design and development phases, reducing the risk of costly changes later in the project lifecycle.
+
+## Types of Requirements
+
+In software development, requirements are generally categorized into two main types: Functional and Non-functional. Both are essential for delivering a successful system that meets user expectations and business goals.
+
+### Functional Requirements
+
+Functional requirements define what the system should do — the specific behaviors, features, and functions it must support to satisfy user needs.
+
+#### Definition:
+These requirements describe **system behaviors or functions** under specific conditions. They outline what the system should do in response to user interactions.
+
+#### Examples (Booking Management Project):
+- Users must be able to create, view, modify, and cancel bookings.
+- Admins can manage room or service availability and update pricing.
+- The system should send a confirmation email upon successful booking.
+- Customers can search available services or rooms based on date and location.
+- Login and registration features must support user authentication.
+
+### Non-functional Requirements
+
+Non-functional requirements define **how** the system performs certain operations rather than what it does. These are the quality attributes of the system.
+
+#### Definition:
+These describe system attributes such as **performance, usability, reliability, scalability, and security**.
+
+#### Examples (Booking Management Project):
+- The system must respond to user actions within 2 seconds.
+- The platform should support up to 1,000 concurrent users without performance degradation.
+- The application should be accessible on both desktop and mobile devices.
+- All user data must be encrypted in transit and at rest.
+- System uptime must be at least 99.9% per month.
+
+Understanding and properly distinguishing between these two types of requirements ensures comprehensive coverage during analysis, development, and testing.
+
