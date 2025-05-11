@@ -17,3 +17,24 @@ During this phase, business analysts, developers, testers, and stakeholders coll
 - **Quality Assurance**: Ensures that the final product meets user needs and performs as expected.
 
 Skipping or poorly conducting requirement analysis can lead to software that fails to solve the intended problem, exceeds budget, or suffers from delays and rework. Therefore, it is not just a formality—it's a strategic investment in the project's success.
+
+## Key Activities in Requirement Analysis
+
+The process of Requirement Analysis involves several essential activities that ensure the development of a successful software product. Below are the five key activities:
+
+- **Requirement Gathering**  
+  This is the initial step where information is collected from stakeholders, users, and subject matter experts. The goal is to understand the needs, goals, and constraints of the system. Techniques include interviews, questionnaires, workshops, and reviewing existing documentation.
+
+- **Requirement Elicitation**  
+  Elicitation involves engaging with stakeholders to draw out their actual needs, even if they are not explicitly stated. It requires analytical thinking, active listening, and asking the right questions to uncover hidden or conflicting requirements.
+
+- **Requirement Documentation**  
+  Once gathered and elicited, requirements must be documented in a clear, consistent, and structured format. This includes use cases, user stories, Software Requirement Specifications (SRS), and diagrams. Proper documentation ensures that all stakeholders are on the same page.
+
+- **Requirement Analysis and Modeling**  
+  This step involves refining and organizing the documented requirements. Analysts identify dependencies, inconsistencies, and priorities, and create models such as data flow diagrams (DFDs), UML diagrams, or wireframes to visualize the system behavior.
+
+- **Requirement Validation**  
+  Validation ensures that the documented requirements accurately reflect stakeholder needs and are feasible, complete, and testable. This may involve reviews, walkthroughs, and approval from stakeholders to confirm alignment before moving to design.
+
+Each of these activities contributes to building a solid foundation for the design and development phases, reducing the risk of costly changes later in the project lifecycle.
